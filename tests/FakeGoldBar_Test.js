@@ -1,6 +1,7 @@
 // This Test is to Find the Fake Gold Bar challenge the console output will 
 //List of Weigings and Total Number of Weighings,the Aller message.
-
+// GitHub Link
+//https://github.com/SankeethYadav/sdetchallenge_fetch..git
 describe('Fake Gold Bar Challenge', function() {
   function printAllertMessage() {
       browser.switchTo().alert().then(function(alert) {
